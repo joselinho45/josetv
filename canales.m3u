@@ -1,9 +1,9 @@
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN F1 1080" tvg-logo="" ,DAZN F1 1080
-plugin://script.module.horus?action=play&id=acestream://5789ca155323664edd293b848606688edf803f4d
+plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN F1 1080 2" tvg-logo="" ,DAZN F1 1080 2
-plugin://script.module.horus?action=play&id=acestream://9dad717d99b29a05672166258a77c25b57713dd5
+plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN F1 720" tvg-logo="" ,DAZN F1 720
-plugin://script.module.horus?action=play&id=acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title="CANALES" tvg-id="Movistar LaLiga 1080 1" tvg-logo="" ,Movistar LaLiga 1080 1
 plugin://script.module.horus?action=play&id=acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="CANALES" tvg-id="Movistar LaLiga 1080 2" tvg-logo="" ,Movistar LaLiga 1080 2
