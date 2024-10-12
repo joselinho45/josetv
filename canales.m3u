@@ -5,18 +5,18 @@ plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b5771
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN F1 720" tvg-logo="" ,DAZN F1 720
 plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title="CANALES" tvg-id="Movistar LaLiga 1080 1" tvg-logo="" ,Movistar LaLiga 1080 1
-plugin://script.module.horus?action=play&id=acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="CANALES" tvg-id="Movistar LaLiga 1080 2" tvg-logo="" ,Movistar LaLiga 1080 2
-plugin://script.module.horus?action=play&id=acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="CANALES" tvg-id="Movistar LaLiga 1080 3" tvg-logo="" ,Movistar LaLiga 1080 3
-plugin://script.module.horus?action=play&id=acestream://1969c27658d4c8333ab2c0670802546121a774a5
+plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="CANALES" tvg-id="Movistar LaLiga 720" tvg-logo="" ,Movistar LaLiga 720
-plugin://script.module.horus?action=play&id=acestream://f031f5728b32f6089dda28edebe990cf198108d8
+plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN LaLiga 1080 1" tvg-logo="" ,DAZN LaLiga 1080 1
-plugin://script.module.horus?action=play&id=acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+plugin://script.module.horus?action=play&id=/1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN LaLiga 1080 2" tvg-logo="" ,DAZN LaLiga 1080 2
-plugin://script.module.horus?action=play&id=acestream://75251ba975132ec9a202806ba5bf606e87280c96
+plugin://script.module.horus?action=play&id=75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN LaLiga 720" tvg-logo="" ,DAZN LaLiga 720
-plugin://script.module.horus?action=play&id=acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+plugin://script.module.horus?action=play&id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title="CANALES" tvg-id="Liga Hypermotion 1080" tvg-logo="" ,Liga Hypermotion 1080
 plugin://script.module.horus?action=play&id=4c46585214b23b1d802ef2168060c7649a3894cf
