@@ -13,7 +13,7 @@ plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a7
 #EXTINF:-1 group-title="CANALES" tvg-id="Movistar LaLiga 720" tvg-logo="" ,Movistar LaLiga 720
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN LaLiga 1080 1" tvg-logo="" ,DAZN LaLiga 1080 1
-plugin://script.module.horus?action=play&id=/1960a9be8ae9e8c755330218eac4c5805466290a
+plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN LaLiga 1080 2" tvg-logo="" ,DAZN LaLiga 1080 2
 plugin://script.module.horus?action=play&id=75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title="CANALES" tvg-id="DAZN LaLiga 720" tvg-logo="" ,DAZN LaLiga 720
